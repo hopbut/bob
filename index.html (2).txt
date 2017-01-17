@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>Git urok 1</h1>
+<p>Novoe izmenenie faila index.html</p>
+</body>
+</html>
